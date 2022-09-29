@@ -5,6 +5,7 @@ body{
     background: #ece6d9;
 }
 
+/* font family still to be checked */
 @font-face {
     font-family: hylia-serif;
     src: url("hylia-serif.zip") format("opentype");
